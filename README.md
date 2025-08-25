@@ -18,32 +18,23 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 🛠️ Tech Stack
 
-Frontend: HTML5, CSS3, JavaScript, Bootstrap / React (whichever you used)
-
-Backend: (If any, e.g., Node.js / Express.js)
-
-Database: (If used, e.g., MongoDB / MySQL)
+Frontend: HTML5, CSS3, JavaScript
 
 Tools & Platforms: Git, GitHub, VS Code
-
-📸 Screenshots
-🏠 Home Page
 
 📂 Projects Section
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/shreya2256/Shreya-Portfolio.git
 cd portfolio
 
 2️⃣ Open in Browser
 
 Simply open index.html in your browser.
-(Or, if React-based, run npm install && npm start).
 
 📌 Future Enhancements
 
-Add dark mode toggle 🌙.
 
 Implement blog section for sharing insights.
 
