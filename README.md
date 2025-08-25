@@ -27,6 +27,7 @@ Tools & Platforms: Git, GitHub, VS Code
 🚀 Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/shreya2256/Shreya-Portfolio.git
+
 cd Shreya-portfolio
 
 2️⃣ Open in Browser
