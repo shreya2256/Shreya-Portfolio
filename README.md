@@ -14,7 +14,7 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 📬 Contact Form – Direct communication option.
 
-🌐 Deployed Online – Available anytime to view.
+🌐 Deployed Online – https://shreya-portfolio-gamma.vercel.app/
 
 🛠️ Tech Stack
 
