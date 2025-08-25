@@ -1,4 +1,4 @@
-#🌐 Personal Portfolio
+🌐 Personal Portfolio
 
 A modern and responsive personal portfolio website built to showcase my skills, projects, certifications, and experience. It serves as a digital resume and an interactive platform to connect with me.
 
